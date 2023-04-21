@@ -1,0 +1,9 @@
+{
+  "short_name": "Matt's Website",
+  "name": "Personal Website for Matt Walsh",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
