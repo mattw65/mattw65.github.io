@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.967d455c.css",
-    "main.js": "/static/js/main.4664ecde.js",
+    "main.css": "/static/css/main.e3747af7.css",
+    "main.js": "/static/js/main.3e3e5152.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
+    "static/media/qisa.png": "/static/media/qisa.9d751f2fde8b957aa676.png",
+    "static/media/phish.png": "/static/media/phish.bfc96babac9eadcf4850.png",
+    "static/media/lanes.png": "/static/media/lanes.9083a8cd3a6ce6805a87.png",
     "static/media/uva.png": "/static/media/uva.e1129d6dca81cae66861.png",
+    "static/media/ships.png": "/static/media/ships.3d7f2e6ef2115059f383.png",
+    "static/media/cff.png": "/static/media/cff.53b20cc572020bb6148e.png",
     "static/media/opensans.ttf": "/static/media/opensans.17e98b9e5586529b13cc.ttf",
+    "static/media/kanit-bold.ttf": "/static/media/kanit-bold.cf86a473ecf932fb0053.ttf",
+    "static/media/kanit.ttf": "/static/media/kanit.f3bae13d78ced30b6ea3.ttf",
+    "static/media/cyber.png": "/static/media/cyber.952c41b71ebefa2ab711.png",
     "static/media/mountains.png": "/static/media/mountains.d2bc09f899d5a9792142.png",
     "static/media/github.png": "/static/media/github.c65375fa2b076035290e.png",
     "static/media/pixelated.ttf": "/static/media/pixelated.4771127bc9170d77651f.ttf",
     "static/media/linkedin.png": "/static/media/linkedin.d2496219328f66be0115.png",
     "static/media/gmail.png": "/static/media/gmail.02b14f3ed1d397560352.png",
     "index.html": "/index.html",
-    "main.967d455c.css.map": "/static/css/main.967d455c.css.map",
-    "main.4664ecde.js.map": "/static/js/main.4664ecde.js.map",
+    "main.e3747af7.css.map": "/static/css/main.e3747af7.css.map",
+    "main.3e3e5152.js.map": "/static/js/main.3e3e5152.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.967d455c.css",
-    "static/js/main.4664ecde.js"
+    "static/css/main.e3747af7.css",
+    "static/js/main.3e3e5152.js"
   ]
 }
